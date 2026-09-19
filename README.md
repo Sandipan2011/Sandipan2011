@@ -44,6 +44,5 @@ I am a developer who enjoys building practical, scalable, and user-friendly soft
 </p>
 
 ## 🌐 Connect
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
-- [Email](mailto:your_email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/tridib-duari-652150293/)
+- [Email](mailto:tridibduari26@gmail.com)
