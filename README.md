@@ -1,11 +1,13 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=220&section=header&text=Sandipan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=18&animation=fadeIn" alt="Sandipan profile banner" width="100%" />
+
 # 👋 Hi, I'm **Sandipan**
 
 ### Full-Stack Developer · Problem Solver · Lifelong Learner
 
 <a href="https://github.com/Sandipan2011">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+ideas+into+digital+experiences;Learning%2C+creating%2C+and+shipping;Open+to+exciting+projects+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+ideas+into+digital+experiences;Learning+something+new+every+day;Turning+problems+into+practical+solutions;Keep+learning.+Keep+building.+Keep+shipping." alt="Typing introduction" />
 </a>
 
 <p>
@@ -129,3 +131,5 @@ Have an idea, opportunity, or just want to talk tech? **I'd love to hear from yo
 ### ✨ Keep learning. Keep building. Keep shipping. ✨
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=120&section=footer" alt="Profile footer banner" width="100%" />
