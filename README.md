@@ -16,7 +16,7 @@ I am a developer who enjoys building practical, scalable, and user-friendly soft
 - 🔭 Currently working on: personal projects and learning new tools
 - 🌱 Learning: React, Node.js, Python, APIs, and cloud basics
 - 💡 Interested in: web development, automation, full-stack apps, and open source
-- 📫 Reach me: your_email@example.com
+- 📫 Reach me: tridibduari26@gmail.com 
 
 ## 🛠️ Tech Stack
 
