@@ -1,99 +1,131 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sandipan+%F0%9F%91%8B;Full-Stack+Developer;Python+%7C+JavaScript+%7C+React;Building+useful+projects+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-7C3AED?style=for-the-badge&logo=web&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Open%20Source-10B981?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20projects-F59E0B?style=for-the-badge" />
+# 👋 Hi, I'm **Sandipan**
+
+### Full-Stack Developer · Problem Solver · Lifelong Learner
+
+<a href="https://github.com/Sandipan2011">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+ideas+into+digital+experiences;Learning%2C+creating%2C+and+shipping;Open+to+exciting+projects+%F0%9F%9A%80" alt="Typing animation" />
+</a>
+
+<p>
+  <a href="https://github.com/Sandipan2011?tab=followers"><img src="https://img.shields.io/github/followers/Sandipan2011?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
+  <a href="https://github.com/Sandipan2011?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-7C3AED?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
+  <a href="mailto:tridibduari26@gmail.com"><img src="https://img.shields.io/badge/Available_for_projects-Yes-10B981?style=for-the-badge&logo=handshake&logoColor=white" alt="Available for projects" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tridib-duari-652150293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tridibduari26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Sandipan2011" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Sandipan2011-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/tridib-duari-652150293/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tridibduari26@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I’m a developer who enjoys building practical, scalable, and user-friendly applications. I love learning new technologies, improving workflows, and turning ideas into real projects.
+I enjoy turning ideas into **practical, scalable, and user-friendly applications**. I care about thoughtful interfaces, maintainable code, and continuously improving the way products are built.
 
-- 🔭 Currently exploring: Web development, UI/UX, and product-focused apps
-- 🌱 Learning: React, Node.js, APIs, cloud basics, and clean architecture
-- 💡 Interests: Full-stack development, automation, and open-source contribution
-- 📫 Reach me: tridibduari26@gmail.com
+- 🔭 **Currently exploring:** Web development, UI/UX, and product-focused applications
+- 🌱 **Currently learning:** React, Node.js, APIs, cloud fundamentals, and clean architecture
+- 💡 **Interested in:** Full-stack development, automation, and open source
+- 🤝 **Open to:** Collaborations, freelance projects, and interesting conversations
+- ⚡ **Fun fact:** I believe every great project starts with curiosity
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Python, JavaScript, HTML, CSS" />
 </p>
 
-### Frontend
+### Frontend & Design
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma" alt="React, Bootstrap, Tailwind CSS, Figma" />
 </p>
 
 ### Backend & Tools
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode" alt="Node.js, Git, GitHub, VS Code" />
 </p>
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 What I Build
 
-- [Project One](https://github.com/Sandipan2011/project-one) — A modern web application built with clean UI and practical functionality.
-- [Project Two](https://github.com/Sandipan2011/project-two) — A project focused on solving a real-world problem with efficient design and logic.
-- [Project Three](https://github.com/Sandipan2011/project-three) — A robust solution showcasing frontend/backend integration and deployment-ready thinking.
-
-> Replace the project links with your real repositories once they are ready.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandipan2011&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan2011&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sandipan2011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/tridib-duari-652150293/)
-- [Email](mailto:tridibduari26@gmail.com)
-- [GitHub](https://github.com/Sandipan2011)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Modern Web Experiences</h3>
+      <p>Responsive, accessible interfaces with clean design and delightful user interactions.</p>
+    </td>
+    <td width="50%">
+      <h3>⚙️ Practical Applications</h3>
+      <p>Useful products that solve real problems with simple, efficient, and scalable solutions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔌 APIs & Integrations</h3>
+      <p>Reliable backend services and integrations that connect products and workflows.</p>
+    </td>
+    <td width="50%">
+      <h3>🤖 Automation</h3>
+      <p>Tools and workflows that reduce repetitive work and make everyday tasks easier.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=for-the-badge" />
-</p>
+## 📌 Featured Work
+
+> Explore my repositories to see what I am building and learning. More projects are coming soon!
+
+<div align="center">
+  <a href="https://github.com/Sandipan2011?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandipan2011&repo=Sandipan2011&theme=tokyonight&hide_border=true" alt="Sandipan's profile repository" />
+  </a>
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandipan2011&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sandipan's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan2011&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sandipan2011&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Have an idea, opportunity, or just want to talk tech? **I'd love to hear from you.**
+
+<a href="https://www.linkedin.com/in/tridib-duari-652150293/"><img src="https://img.shields.io/badge/LinkedIn-Tridib_Duari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:tridibduari26@gmail.com"><img src="https://img.shields.io/badge/Gmail-tridibduari26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Sandipan2011"><img src="https://img.shields.io/badge/GitHub-Sandipan2011-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=Sandipan2011&style=flat-square&color=7C3AED" alt="Profile views" />
+
+### ✨ Keep learning. Keep building. Keep shipping. ✨
+
+</div>
