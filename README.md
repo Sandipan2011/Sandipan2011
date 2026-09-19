@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=220&section=header&text=Sandipan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=18&animation=fadeIn" alt="Sandipan profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=220&section=header&text=Sandipan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=62&descSize=18" alt="Sandipan profile banner" width="100%" />
 
 # 👋 Hi, I'm **Sandipan**
 
 ### Full-Stack Developer · Problem Solver · Lifelong Learner
 
-<a href="https://github.com/Sandipan2011">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+ideas+into+digital+experiences;Learning+something+new+every+day;Turning+problems+into+practical+solutions;Keep+learning.+Keep+building.+Keep+shipping." alt="Typing introduction" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+ideas+into+digital+experiences;Learning+something+new+every+day;Writing+cleaner+code+one+commit+at+a+time;Turning+problems+into+practical+solutions" alt="Typing introduction" />
 </a>
 
 <p>
@@ -19,6 +19,7 @@
 <p>
   <a href="https://www.linkedin.com/in/tridib-duari-652150293/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tridibduari26@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Sandipan2011"><img src="https://img.shields.io/github/last-commit/Sandipan2011/Sandipan2011?style=flat-square&logo=github&label=Last%20commit" alt="Last commit" /></a>
 </p>
 
 </div>
@@ -34,6 +35,8 @@ I enjoy turning ideas into **practical, scalable, and user-friendly applications
 - 💡 **Interested in:** Full-stack development, automation, and open source
 - 🤝 **Open to:** Collaborations, freelance projects, and interesting conversations
 - ⚡ **Fun fact:** I believe every great project starts with curiosity
+
+> *“The best way to learn is to build, break, improve, and build again.”*
 
 ---
 
@@ -51,9 +54,9 @@ I enjoy turning ideas into **practical, scalable, and user-friendly applications
   <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma" alt="React, Bootstrap, Tailwind CSS, Figma" />
 </p>
 
-### Backend & Tools
+### Backend, Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode" alt="Node.js, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode" alt="Node.js, Express, MongoDB, Git, GitHub, VS Code" />
 </p>
 
 </div>
@@ -102,8 +105,8 @@ I enjoy turning ideas into **practical, scalable, and user-friendly applications
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandipan2011&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sandipan's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan2011&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandipan2011&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Sandipan's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan2011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <br />
@@ -111,6 +114,22 @@ I enjoy turning ideas into **practical, scalable, and user-friendly applications
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sandipan2011&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandipan2011&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="95%" />
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Build and publish more full-stack projects
+- [ ] Strengthen backend and cloud development skills
+- [ ] Contribute to open-source projects
+- [ ] Keep improving accessibility, performance, and code quality
+- [ ] Share what I learn with the developer community
 
 ---
 
@@ -120,9 +139,9 @@ I enjoy turning ideas into **practical, scalable, and user-friendly applications
 
 Have an idea, opportunity, or just want to talk tech? **I'd love to hear from you.**
 
-<a href="https://www.linkedin.com/in/tridib-duari-652150293/"><img src="https://img.shields.io/badge/LinkedIn-Tridib_Duari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:tridibduari26@gmail.com"><img src="https://img.shields.io/badge/Gmail-tridibduari26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Sandipan2011"><img src="https://img.shields.io/badge/GitHub-Sandipan2011-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/tridib-duari-652150293/"><img src="https://img.shields.io/badge/LinkedIn-Tridib_Duari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Tridib Duari" /></a>
+<a href="mailto:tridibduari26@gmail.com"><img src="https://img.shields.io/badge/Gmail-tridibduari26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email - tridibduari26@gmail.com" /></a>
+<a href="https://github.com/Sandipan2011"><img src="https://img.shields.io/badge/GitHub-Sandipan2011-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Sandipan2011" /></a>
 
 <br /><br />
 
